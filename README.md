@@ -1,15 +1,13 @@
 # Dataviz
 
 ## Index.html
-- traduction en anglais (dont relier les pages)
-- élargir la conclusion
 - corriger coquilles
+- mettre la traduction en anglais sur la page ..github.io/en
+- minify js et css (Romain, à faire en dernier)
 
 
 ## Version mobile
-- mettre à jour les textes + infographies sans les animations
-- reprendre conclusion en plus court en bas de page
-- mettre boutons partage pour smartphone en bas de page
-- tester si ça marche bien sur smartphone
+- traduire sur ..github.io/en-mobile
+- minify js et css (Romain, à faire en dernier)
 
-## Traduction de la page ../fr et de la page ../fr-mobile
+
